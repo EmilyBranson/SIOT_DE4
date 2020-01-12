@@ -1,7 +1,7 @@
 # SIOT_DE4
 
-Emily Branson's Sensing and IoT Coursework 
-Design Engineering, Imperial College London
+Emily Branson's Sensing and IoT Coursework
+Design Engineering, Imperial College London, 
 Master's Year
 
 The Coursework is split into two sections: 
