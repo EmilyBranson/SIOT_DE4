@@ -12,3 +12,7 @@ Run SIOT_API_Script, ensuring you have your secret keys to authenticate your Twi
 2. Coursework 2 IoT:
 a) Data processing, done within a Jupiter Notebook. 
 b) Website displaying Live Data - link found in SIOT Report. 
+
+References:
+1) ORCHID SIOT: https://github.com/Bealln/Orchid_SIOT
+2) Twitter Sentiment Analysis: https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/
