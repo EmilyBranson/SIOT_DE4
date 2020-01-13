@@ -183,9 +183,3 @@ def excel_insert(notweets, pospercent, negpercent, neutralpercent, notweets2, po
 
 if __name__ == '__main__':
     main()
-
-    '''consumer_key = 'HNkWCJNGQU6Bk6cxilum0gMr0'
-        consumer_secret = '1886K2v6rmqrXPmg3g5sb8QpCc22cHXYzPJqulvqhzJPpDiBTu'
-        access_token = '1210937961727946754-zGlCFew3lzYyJrCeBieolwx2JCq5cp'
-        access_token_secret = '9e5AEccpD3sy7tWNFhwqk3yloE3W6Z4T6hD9LombRDqbk'
-'''
